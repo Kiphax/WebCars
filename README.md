@@ -15,4 +15,4 @@
 - Upload εικόνων
 - Light/Dark theme
 
-## Δομή
+
